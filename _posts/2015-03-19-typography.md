@@ -480,7 +480,7 @@ data.groupby('Date').max()['Time'].plot.line()
 
 
 
-![png](parkrun_files/parkrun_11_1.png)
+![png](/emerald/img/parkrun_files/parkrun_11_1.png)
 
 
 
@@ -497,7 +497,7 @@ data.groupby('Date').max()['Time'].plot.line()
 
 
 
-![png](parkrun_files/parkrun_12_1.png)
+![png](/emerald/img/parkrunfiles/parkrun_12_1.png)
 
 
 
